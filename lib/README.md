@@ -10,9 +10,9 @@ Toiher Omar
 Randy rajaonarison
 Freddy Michel
 
-Dans ce projet, nous avons creer 4 fichiers qui sont dans le dossier <b>lib: </b>
-	<b>1- 00_hello.rb:</b> Il permet a l'utilisateur d'entrer son prenoms et apres il affiche <i><b>Bonjour #{prenoms_ de_l'utilisateur}</b></i>
-	<b>2- 01_pyramids.rb:</b> Dans ce fichier, nous avons trouve la dedans le programme qui affiche 
+Dans ce projet, nous avons creer 4 fichiers qui sont dans le dossier lib: 
+	1- 00_hello.rb: Il permet a l'utilisateur d'entrer son prenoms et apres il affiche <i>Bonjour #{prenoms_ de_l'utilisateur}</i>
+	2- 01_pyramids.rb: Dans ce fichier, nous avons trouve la dedans le programme qui affiche 
 	:
 		a/ Le <i>half_pyramids</i>, le programme demande a l'utilisateur d'entrer le nombre des etages qu'il veut et le script dessinera le pyramide apres.
 											#
@@ -34,9 +34,9 @@ Dans ce projet, nous avons creer 4 fichiers qui sont dans le dossier <b>lib: </b
 									   ###
 									    #
 -
-	<b>3- 02_passwords.rb: </b>Il demande a l'utilisateur de définir son le mot de passe. Apres, le script demande encore a l'utilisateur de saisie son mot de passe, Si les deux saisies correspondent, il affiche l'ecran d'accueil qui contien ses informations secrets, sinon il continue à demander. Le programme est fait de 3 fonctions :
-		<b>a/ sign_up: </b> Qui fait la demande a l'utilisateur de s'iscrire
-		<b>b/ welcome_screen: </b> qui contien les informations secret de l'utilisateur apres son authentification
-		<b>c/ log_in: </b> Qui demande a l'utilisateur de s'authentifier pour acceder a ses informations
-	<b>4- 03_stairway.rb: </b>Le programme lance 100 parties et affiche le nombre moyen de tour dans chaque partie à la fin. Il affiche le numéro de tour, la position de début, le résultat du dé, le nombre de pas à faire, la position de fin.
+	3- 02_passwords.rb: Il demande a l'utilisateur de définir son le mot de passe. Apres, le script demande encore a l'utilisateur de saisie son mot de passe, Si les deux saisies correspondent, il affiche l'ecran d'accueil qui contien ses informations secrets, sinon il continue à demander. Le programme est fait de 3 fonctions :
+		a/ sign_up:  Qui fait la demande a l'utilisateur de s'iscrire
+		b/ welcome_screen:  qui contien les informations secret de l'utilisateur apres son authentification
+		c/ log_in:  Qui demande a l'utilisateur de s'authentifier pour acceder a ses informations
+	4- 03_stairway.rb: Le programme lance 100 parties et affiche le nombre moyen de tour dans chaque partie à la fin. Il affiche le numéro de tour, la position de début, le résultat du dé, le nombre de pas à faire, la position de fin.
 
