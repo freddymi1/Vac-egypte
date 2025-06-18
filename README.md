@@ -3,12 +3,8 @@ Liste des membres de <b>SENSEI groupe 5</b><br>
 <=============================================><br>
 Mini-projet en <b>RUBY</b><br>
 <==============================================><br>
-Freddy Harimanana <br>
-Lafatra L Ramahefaharimamonjy<br>
-Toky Raf<br>
-Toiher Omar<br>
-Randy rajaonarison<br>
-Freddy Michel<br>
+
+Freddy Michel
 
 Dans ce projet, nous avons creer 4 fichiers qui sont dans le dossier lib: <br>
 	<b>1- 00_hello.rb:</b> Il permet a l'utilisateur d'entrer son prenoms et apres il affiche <i>Bonjour #{prenoms_ de_l'utilisateur}</i><br>
